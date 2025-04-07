@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Igor, tenho 19 anos e sou de São Paulo,SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM - Centro Universitário
+Me chamo Igor Almeida, tenho 19 anos e sou de São Paulo,SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM - Centro Universitário
 . Entusiasta por novas tecnologias, com facilidade em aprender e aplicá-las no desenvolvimento de sistemas. Comprometido com as boas práticas do mercado para garantir soluções atualizadas, seguras e eficientes.
 
 ---
