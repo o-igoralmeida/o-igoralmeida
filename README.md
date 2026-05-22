@@ -2,7 +2,14 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Igor Almeida, tenho 20 anos e sou de São Paulo,SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM - Centro Universitário. Possuo conhecimentos em desenvolvimento backend utilizando Java, com conhecimentos dos fundamentos da linguagem, JDBC, Collections Framework e construção de APIs. Tenho experiência acadêmica e prática com Spring Boot para desenvolvimento de APIs REST, organização de camadas e integração com banco de dados MySQL. Para containerização de aplicações e utilizo Git e GitHub para versionamento de código e controle de versões. Também possuo conhecimentos básicos em front-end, utilizando HTML, CSS e JavaScript, o que contribui para uma melhor compreensão da integração entre front-end e back-end.
+Me chamo Igor Almeida, tenho 20 anos e sou de São Paulo/SP. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAM – Centro Universitário.
+
+Possuo conhecimentos em desenvolvimento backend utilizando Java, Spring Boot, Spring Data JPA, APIs REST e PostgreSQL, além de experiência acadêmica e prática no desenvolvimento de aplicações backend, organização em camadas e integração com banco de dados.
+
+Também utilizo Git e GitHub para versionamento de código e controle de versões. Além disso, possuo conhecimentos básicos em HTML, CSS e JavaScript, contribuindo para uma melhor compreensão da integração entre front-end e back-end.
+
+Estou constantemente buscando evoluir tecnicamente, aprender novas ferramentas e desenvolver soluções cada vez mais eficientes.
+
 
 ---
 
